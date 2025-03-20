@@ -2,7 +2,7 @@
 
 |       |                  m                 |                       f              |                     n             |                      p                           |
 |:-----:|:----------------------------------:|:------------------------------------:|:---------------------------------:|:------------------------------------------------:|
-|  N b  | <u>nicht</u> **der** <b>Apfel</b>  |    <u>nicht</u> **die** Zwiebel      |      <u>nicht</u> **das** Brot    |   <u>nicht</u> **die** (Äpfel, Zwiebeln, Brote)  |
+|  N b  | <u>nicht</u> **der** Apfel  |    <u>nicht</u> **die** Zwiebel      |      <u>nicht</u> **das** Brot    |   <u>nicht</u> **die** (Äpfel, Zwiebeln, Brote)  |
 |  N u  | <u><i>k</i></u>***ein*** *Apfel*   | <u><i>k</i></u>***eine*** *Zwiebel*  | <u><i>k</i></u>***ein*** *Brot*   | <u><i>keine</i></u> *(Äpfel, Zwiebeln, Brote)*   |
 |  A b  |   <u>nicht</u> **den**       Apfel |    <u>nicht</u> **die**  Zwiebel     |   <u>nicht</u> **das**       Brot |    <u>nicht</u> **die** (Äpfel, Zwiebeln, Brote) |
 |  A u  | <u><i>k</i></u>***einen*** *Apfel* |  <u><i>k</i></u>***eine*** *Zwiebel* | <u><i>k</i></u>***ein***  *Brot*  |   <u><i>keine</i></u> *(Äpfel, Zwiebeln, Brote)* |
@@ -30,7 +30,7 @@ Ist das (***ein*** Apfel, ***eine*** Zwiebel, ***ein*** Brot)?<br>
 
 - Ja. Das ist (***ein*** Apfel, ***eine*** Zwiebel, ***ein*** Brot).<br>
     Yes. This is ***an*** apple.
-- Nein. Das ist (***kein*** Apfel, ***keine*** Zwiebel, <u><i>k</i></u>***ein*** Brot). Das ist **eine** Melone!<br>
+- Nein. Das ist (<i><u>**kein**</u> Apfel</i>, <i><u>**keine**</u> Zwiebel</i>, <i><u>**kein**</u> Brot</i>). Das ist **eine** Melone!<br>
     No. This is <u>not</u> ***an*** apple. This is **a** melon!
 
 ### Nominativ Plural = p
@@ -52,7 +52,7 @@ Sind das (Äpfel, Zwiebeln, Brote)?<br>
 
 - Ja. Das sind (Äpfel, Zwiebeln, Brote).<br>
     Yes. These are apples.
-- Nein. Das ist (***keine*** Äpfel, ***keine*** Zwiebeln, ***keine*** Brote). Das sind Melonen!<br>
+- Nein. Das ist (<i><u>**keine**</u> Äpfel</i>, <i><u>**keine**</u> Zwiebeln</i>, <i><u>**keine**</u> Brote</i>). Das sind Melonen!<br>
     This is (***not*** apples, ***not*** onions, ***not*** breads). These are melons!
 
 ### Akkusativ Singular = A m
@@ -80,6 +80,6 @@ Siehst du **einen** Apfel?<br>
 
 - Ja. Ich sehe ***einen*** Apfel.<br>
     Yes. I see **an** apple.
-- Nein. Ich sehe ***keinen*** Apfel. Aber ich sehe einen Fernseher.<br>
+- Nein. Ich sehe <i><u>**keinen**</u> Apfel</i>. Aber ich sehe einen Fernseher.<br>
     No. I don't see **any** apple. But I see a TV.
 
