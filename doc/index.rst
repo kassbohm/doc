@@ -6,6 +6,8 @@
 Welcome to Example's documentation!
 ===================================
 
+Huhu
+
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
