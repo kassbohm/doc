@@ -57,11 +57,7 @@ Sind das (Äpfel, Zwiebeln, Brote)?<br>
 
 ### Akkusativ Singular = A m
 
-Akkusativ = Nominativ.
-
-**Ausnahmen**:<br>
-Exceptions:
-
+Akkusativ = Nominativ **außer bei m**.
 #### bestimmt = b
 
 Siehst du **den** Apfel?<br>
