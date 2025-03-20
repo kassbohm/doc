@@ -52,8 +52,8 @@ Sind das (Äpfel, Zwiebeln, Brote)?<br>
 
 - Ja. Das sind (Äpfel, Zwiebeln, Brote).<br>
     Yes. These are apples.
-- Nein. Das ist (<i><u>**keine**</u> Äpfel</i>, <i><u>**keine**</u> Zwiebeln</i>, <i><u>**keine**</u> Brote</i>). Das sind *Melonen*!<br>
-    This is (***not*** apples, ***not*** onions, ***not*** breads). These are *melons*!
+- Nein. Das sind (<i><u>**keine**</u> Äpfel</i>, <i><u>**keine**</u> Zwiebeln</i>, <i><u>**keine**</u> Brote</i>). Das sind *Melonen*!<br>
+    No. These are (***not*** apples, ***not*** onions, ***not*** breads). These are *melons*!
 
 ### Akkusativ Singular = A m
 
