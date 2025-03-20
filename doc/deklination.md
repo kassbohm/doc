@@ -67,7 +67,7 @@ Siehst du **den** Apfel?<br>
     Yes. I see **the** apple.
 
 - Nein. Ich sehe <u>nicht</u> **den** Apfel. Es ist zu dunkel.<br>
-    No. I do **not** see **the** apple. It is too dark.
+    No. I do <u>not</u> see **the** apple. It is too dark.
 
 #### unbestimmt = u
 
@@ -77,5 +77,5 @@ Siehst du **einen** *Apfel*?<br>
 - Ja. Ich sehe ***einen*** *Apfel*.<br>
     Yes. I see ***an*** *apple*.
 - Nein. Ich sehe <i><u>**keinen**</u> Apfel</i>. Aber ich sehe ***einen** *Fernseher*.<br>
-    No. I do ***not*** see ***any*** apple. But I see ***a*** *TV*.
+    No. I do <u>not</u> see ***any*** apple. But I see ***a*** *TV*.
 
