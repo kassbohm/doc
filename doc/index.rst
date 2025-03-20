@@ -12,5 +12,5 @@ Huhu
    :maxdepth: 2
    :caption: Contents:
 
-   some-feature.md
+   deklination.md
    another-feature.md
