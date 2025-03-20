@@ -14,9 +14,6 @@
 ### Nominativ Singular = (m, f, n)
 
 
-<r>TODO:</r>
-
-
 #### bestimmt = b
 
 Ist das (**der** Apfel, **die** Zwiebel, **das** Brot)?<br>
