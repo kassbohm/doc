@@ -53,7 +53,7 @@ Sind das (Äpfel, Zwiebeln, Brote)?<br>
 - Ja. Das sind (Äpfel, Zwiebeln, Brote).<br>
     Yes. These are apples.
 - Nein. Das sind (<i><u>**keine**</u> Äpfel</i>, <i><u>**keine**</u> Zwiebeln</i>, <i><u>**keine**</u> Brote</i>). Das sind *Melonen*!<br>
-    No. These are ***not*** apples. These are *melons*!
+    No. These are ***not*** *apples*. These are *melons*!
 
 ### Akkusativ Singular = A m
 
@@ -67,7 +67,7 @@ Siehst du **den** Apfel?<br>
     Yes. I see **the** apple.
 
 - Nein. Ich sehe <u>nicht</u> **den** Apfel. Es ist zu dunkel.<br>
-    No. I don't see **the** apple. It is too dark.
+    No. I do **not* see **the** apple. It is too dark.
 
 #### unbestimmt = u
 
@@ -75,7 +75,7 @@ Siehst du **einen** *Apfel*?<br>
     Do you see **an** *apple*?
 
 - Ja. Ich sehe ***einen*** *Apfel*.<br>
-    Yes. I see **an** *apple*.
+    Yes. I see ***an*** *apple*.
 - Nein. Ich sehe <i><u>**keinen**</u> Apfel</i>. Aber ich sehe ***einen** *Fernseher*.<br>
-    No. I don't see **any** apple. But I see ***a*** *TV*.
+    No. I do ***not*** see ***any*** apple. But I see ***a*** *TV*.
 
