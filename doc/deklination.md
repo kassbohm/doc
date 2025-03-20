@@ -2,7 +2,7 @@
 
 |       |                  m                 |                       f              |                     n             |                      p                           |
 |:-----:|:----------------------------------:|:------------------------------------:|:---------------------------------:|:------------------------------------------------:|
-|  N b  | <u>nicht</u> **der** Apfel  |    <u>nicht</u> **die** Zwiebel      |      <u>nicht</u> **das** Brot    |   <u>nicht</u> **die** (Äpfel, Zwiebeln, Brote)  |
+|  N b  | <u>nicht</u> **der** Apfel         |    <u>nicht</u> **die** Zwiebel      |      <u>nicht</u> **das** Brot    |   <u>nicht</u> **die** (Äpfel, Zwiebeln, Brote)  |
 |  N u  | <u><i>k</i></u>***ein*** *Apfel*   | <u><i>k</i></u>***eine*** *Zwiebel*  | <u><i>k</i></u>***ein*** *Brot*   | <u><i>keine</i></u> *(Äpfel, Zwiebeln, Brote)*   |
 |  A b  |   <u>nicht</u> **den**       Apfel |    <u>nicht</u> **die**  Zwiebel     |   <u>nicht</u> **das**       Brot |    <u>nicht</u> **die** (Äpfel, Zwiebeln, Brote) |
 |  A u  | <u><i>k</i></u>***einen*** *Apfel* |  <u><i>k</i></u>***eine*** *Zwiebel* | <u><i>k</i></u>***ein***  *Brot*  |   <u><i>keine</i></u> *(Äpfel, Zwiebeln, Brote)* |
