@@ -13,7 +13,6 @@
 
 ### Nominativ Singular = (m, f, n)
 
-
 #### bestimmt = b
 
 Ist das (**der** Apfel, **die** Zwiebel, **das** Brot)?<br>
