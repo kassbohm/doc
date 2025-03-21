@@ -6,7 +6,7 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = 'A1.1'
+project = 'gh-pages'
 copyright = 'Kai Kaßbohm'
 author = 'Kai Kaßbohm'
 release = '0.1'
